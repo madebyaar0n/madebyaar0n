@@ -27,12 +27,12 @@ negativos e trechos ambíguos como ruído.
 
 Repositório privado.
 
-### [Monitoramento de riscos ambientais](https://github.com/CodeAaron-Dev/monitoramento-riscos-ambientais)
+### [Monitoramento de riscos ambientais](https://github.com/madebyaar0n/monitoramento-riscos-ambientais)
 
 Modelagem de risco em Python sobre grafos e árvores binárias de busca, comparando uma solução por
 força bruta com um algoritmo guloso para priorizar as áreas de maior exposição.
 
-### [IoT DevBalance](https://github.com/CodeAaron-Dev/IoT-DevBalance)
+### [IoT DevBalance](https://github.com/madebyaar0n/IoT-DevBalance)
 
 Dispositivo em ESP32 e C++ que acompanha ciclos de trabalho e descanso, exibe o estado em display
 OLED e publica as métricas por MQTT para um dashboard.
